@@ -1,0 +1,5 @@
+<interview.OperationTest-stats timestamp="1417426136907"><stats time="34" expectations="1" successes="1" examples="1"></stats></interview.OperationTest-stats>
+<interview.OperationTest-results timestamp="1417427188200"><result location="interview.OperationTest (OperationTest.scala:18)" id="-611980461"><stats time="26" expectations="1" failures="1" examples="1"></stats></result>
+</interview.OperationTest-results>
+<interview.OperationTest-stats timestamp="1417427188210"><stats time="16" expectations="2" failures="1" successes="1" examples="2"><trend><stats time="16" expectations="1" failures="1" examples="1"></stats></trend></stats></interview.OperationTest-stats>
+<interview.OperationTest-stats timestamp="1417427214417"><stats time="15" expectations="2" successes="2" examples="2"><trend><stats time="15" failures="-1" successes="1"></stats></trend></stats></interview.OperationTest-stats>

@@ -1,3 +1,4 @@
+colorscheme metacosm
 "{{{Vim-ruby configuration
 set nocompatible
 filetype on

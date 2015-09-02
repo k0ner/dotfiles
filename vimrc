@@ -1,4 +1,11 @@
+"{{{General settings
 colorscheme metacosm
+
+" Swap ; and : convenient
+nnoremap ; :
+nnoremap : ;
+"}}}
+
 "{{{Vim-ruby configuration
 set nocompatible
 filetype on

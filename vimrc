@@ -1,7 +1,5 @@
 "{{{Vim-ruby configuration
 set nocompatible
-call vundle#rc()
-Bundle 'vim-ruby/vim-ruby'
 filetype on
 filetype indent on
 filetype plugin on

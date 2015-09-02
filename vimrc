@@ -11,6 +11,10 @@ set nocompatible
 filetype on
 filetype indent on
 filetype plugin on
+
+nnoremap <leader>. :CtrlPTag<cr>
+set tags+=gems.tags
+
 "}}}
 
 "{{{seeing_is_believing configuration

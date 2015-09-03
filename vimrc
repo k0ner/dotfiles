@@ -2,7 +2,7 @@
 colorscheme metacosm
 
 set list
-:et listchars=eol:⏎,trail:·
+set listchars=eol:⏎,trail:·
 
 " Swap ; and : convenient
 nnoremap ; :

@@ -1,6 +1,9 @@
 "{{{General settings
 colorscheme metacosm
 
+set list
+:et listchars=eol:⏎,trail:·
+
 " Swap ; and : convenient
 nnoremap ; :
 nnoremap : ;

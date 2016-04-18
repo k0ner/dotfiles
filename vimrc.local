@@ -1,4 +1,5 @@
 nnoremap ; :
+set wrap
 
 set background=dark
 colorscheme solarized

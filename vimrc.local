@@ -2,7 +2,6 @@ nnoremap ; :
 set wrap
 
 set background=dark
-colorscheme solarized
 
 autocmd VimEnter * NERDTreeToggle
 autocmd VimEnter * wincmd p

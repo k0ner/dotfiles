@@ -1,8 +1,7 @@
 sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
 cp ./zshrc ~/.zshrc
 
-git clone http://github.com/k0ner/vimfiles.git ~/.vim
-~/.vim/install
+curl vimfiles.luan.sh/install | bash
 
 cp ./vimrc.local ~/.vimrc.local
 cp ./tmux.conf ~/.tmux.conf
